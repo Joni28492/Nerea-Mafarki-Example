@@ -18,6 +18,21 @@
   align-items: center;
 }
 
+.primer-parrafo {
+  border-radius: 50px;
+  background-color: rgba(216, 222, 232, 0.5);
+  border: 1.5px solid lightgray;
+  width: 60%;
+  padding: 2.2rem;
+  box-shadow: 2px 2px 12px dodgerblue;
+}
+
+.primer-parrafo p {
+  text-align: center;
+  padding: 1.3rem;
+  line-height: 2.2em;
+}
+
 .navbar {
   background-color: turquoise;
   color: white;
