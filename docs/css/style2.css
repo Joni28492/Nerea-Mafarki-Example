@@ -195,6 +195,10 @@ main {
   li {
     margin-top: 0.5rem;
   }
+
+  footer {
+    bottom: 0;
+  }
 }
 
 footer {
